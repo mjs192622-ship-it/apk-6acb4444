@@ -1,0 +1,30 @@
+{
+    "project_info": {
+        "project_number": "235406545538",
+        "firebase_url": "https://mchat-8d24d-default-rtdb.firebaseio.com",
+        "project_id": "mchat-8d24d",
+        "storage_bucket": "mchat-8d24d.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:235406545538:android:013a48e974d207806a5a9b",
+                "android_client_info": {
+                    "package_name": "com.mchat.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCI4eDgE3PnbmkV42oj37SNEmc4eVyXL2Q"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
